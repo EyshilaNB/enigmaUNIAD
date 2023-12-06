@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #000;
+    color: #fff;
+}
+
+.enigma {
+    text-align: center;
+}
+
+.enigma-text {
+    font-size: 18px;
+}
+
+input {
+    margin-top: 10px;
+    padding: 5px;
+}
+
+button {
+    margin-top: 10px;
+    padding: 8px 15px;
+    cursor: pointer;
+    background-color: #fff;
+    color: #000;
+    border: none;
+}
