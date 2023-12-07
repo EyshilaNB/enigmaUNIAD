@@ -6,7 +6,7 @@ function verificarResposta() {
     // Substitua 'resposta_correta' pela resposta correta do enigma
     if (respostaDigitada === 'cemitério') {
         console.log("Resposta Correta!");  // Adicione esta linha
-        window.location.href = 'eng1p.html';
+        window.location.href = 'eng3p.html';
     } else {
         alert('Resposta incorreta. Tente novamente.');
     }
