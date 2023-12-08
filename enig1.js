@@ -4,7 +4,7 @@ function verificarResposta() {
     console.log("Resposta Digitada:", respostaDigitada);  // Adicione esta linha
 
     // Substitua 'resposta_correta' pela resposta correta do enigma
-    if (respostaDigitada === 'Jonas') {
+    if (respostaDigitada === 'jonas') {
         console.log("Resposta Correta!");  // Adicione esta linha
         window.location.href = 'enig1p.html';
     } else {
